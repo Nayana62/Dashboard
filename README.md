@@ -27,21 +27,24 @@ This dashboard project is a web application created with ReactJS, leveraging the
 
    ```bash
    git clone https://github.com/your-username/Dashboard.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd Dashboard
-Install dependencies:
+2. Navigate to the project directory:
 
-bash
-Copy code
-npm install
-Usage
-Start the development server:
+    ```bash
+    cd Dashboard
 
-bash
-Copy code
-npm start
-Open your browser and visit http://localhost:3000 to view the dashboard.
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+
+## Usage
+
+1. Start the development server:
+
+    ```bash
+    npm start
+
+2. Open your browser and visit http://localhost:3000 to view the dashboard.
 
