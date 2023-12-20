@@ -1,0 +1,91 @@
+.logo {
+  color: #003dff;
+  font-size: 30px;
+  font-weight: 900;
+  margin: 20px;
+  font-size: 40px;
+  line-height: 30px;
+  letter-spacing: -0.1em;
+  text-align: left;
+}
+
+.user-info-container {
+  display: flex;
+  margin: 10px;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  color: #8e8e8e;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.user-img {
+  background: #c4c4c4;
+  border-radius: 50%;
+  padding: 10px 12px;
+  color: #2b303c;
+}
+
+.user-info p {
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0;
+}
+
+.user-info h3 {
+  color: #2b303c;
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.border {
+  border: 2px solid red;
+}
+
+.card-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-items h4 {
+  font-style: 16px;
+  font-weight: 600;
+  color: #555454;
+}
+
+.cash {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.mb {
+  margin-bottom: 15px;
+}
+
+.small {
+  font-size: 10px;
+  color: #8e8e8e;
+}
+
+.area-container {
+  max-width: 400rem;
+  height: 300px;
+}
+
+.g2-tooltip {
+  width: 150px;
+  height: 70px;
+}
+
+.table-title {
+  color: #555454;
+  font-size: 16px;
+  font-weight: 700;
+  margin-left: 20px;
+}
