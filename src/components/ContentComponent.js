@@ -20,22 +20,22 @@ const ContentComponent = () => {
         }}
       >
         <Row>
-          <Col span={{ xl: 24, md: 8 }}>
+          <Col span={{ xl: 24, md: 8, xs: 4 }}>
             <CardComponent />
           </Col>
-          <Col span={{ xl: 24, md: 8 }}>
+          <Col span={{ xl: 24, md: 8, xs: 4 }}>
             <ChartComponent />
           </Col>
         </Row>
 
         <Row>
-          <Col span={24}>
+          <Col span={{ xl: 24, md: 8, xs: 4 }}>
             <AccountsRecTable />
           </Col>
         </Row>
 
         <Row>
-          <Col span={24}>
+          <Col span={{ xl: 24, md: 8, xs: 4 }}>
             <AccountsPayTable />
           </Col>
         </Row>
